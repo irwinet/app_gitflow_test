@@ -9,3 +9,7 @@ Pasos de GitFlow:
 4. git flow release start 0.1.0: Inicar rama de publicación
 
 5. git flow release finish '0.1.0': Finalizar rama de publicación
+
+6. git flow hotfix start hotfix_branch: Iniciar rama de corrección
+
+7. git flow hotfix finish hotfix_branch: Finalizar rama de corrección
