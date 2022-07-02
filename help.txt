@@ -1,0 +1,5 @@
+Pasos de GitFlow:
+
+1. git flow init: Crea dos ramas(master - develop)
+2. git flow feature start feature_branch: Iniciar rama de función
+3. git flow feature finish feature_branch: Finalizar rama de función
