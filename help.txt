@@ -6,4 +6,6 @@ Pasos de GitFlow:
 
 3. git flow feature finish feature_branch: Finalizar rama de función
 
-4. git flow release start 0.1.0: Rama de publicación
+4. git flow release start 0.1.0: Inicar rama de publicación
+
+5. git flow release finish '0.1.0': Finalizar rama de publicación
